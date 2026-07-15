@@ -8,7 +8,7 @@ image:
   repository: ghcr.io/mateo2335/mediamarktdemo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "sha-029e30d"
+  tag: "sha-1f1039f"
 
 imagePullSecrets: []
 nameOverride: ""
