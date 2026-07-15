@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mediamarkt
+  repository: ghcr.io/mateo2335/mediamarktdemo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
